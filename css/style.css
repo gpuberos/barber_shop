@@ -22,7 +22,7 @@ ul li {
   Variable CSS
   ========================================================================== */
 
-:root {
+  :root {
     --color-primary: #005f70;
     --color-secondary: #f5f0da;
     --color-tertiary: #8e7d4e;
@@ -70,7 +70,6 @@ header {
     display: flex;
     align-items: center;
     border: 2px solid #000;
-    border-color: ;
     border-radius: 10px;
     padding-left: 12px;
     background-color: #fff;
@@ -155,7 +154,7 @@ header {
   Main
   ========================================================================== */
 
-main {
+  main {
     margin: 0 auto;
     padding: 66px 50px 142px;
 }
@@ -263,7 +262,7 @@ section h1 {
   Footer
   ========================================================================== */
 
-footer {
+  footer {
     background-color: var(--color-secondary);
 }
 
