@@ -100,7 +100,7 @@ header {
     align-items: center;
     width: 100%;
     padding: 10px 70px;
-    background: var(--color-secondary) 95% 50% no-repeat url(/images/icon-moustache.png);    
+    background: var(--color-secondary) 95% 50% no-repeat url(../images/icon-moustache.png);   
     font-size: 1.375rem;
 }
 
@@ -127,7 +127,7 @@ header {
     align-items: center;
     height: 426px;
     width: 100%;
-    background: center / cover no-repeat url(/images/photo-bandeau.jpg);
+    background: center / cover no-repeat url(../images/photo-bandeau.jpg);
     box-shadow: inset 0 10px 15px 0 rgba(0,0,0,0.75);
 }
 
